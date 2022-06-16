@@ -676,9 +676,9 @@ section {
 @media (max-width:530px) {
 
 
-.home, .footer{
+/* .home, .footer{
   width: 110vw;
-}
+} */
 
 /* .footer {
   width: 115%;
@@ -694,8 +694,8 @@ section {
   }
 
 
-  .home,.footer {
+  /* .home,.footer {
   width: 120%;
-}
+} */
 
 }
